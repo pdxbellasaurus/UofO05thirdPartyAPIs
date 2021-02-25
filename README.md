@@ -1,7 +1,7 @@
 
 # Work Day Scheduler
 
-[Launch Workday Planner]()
+[Launch Workday Planner](https://pdxbellasaurus.github.io/UofO05thirdPartyAPIs/)
 
 ## Overview
 This week's homework we were tasked to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. 
